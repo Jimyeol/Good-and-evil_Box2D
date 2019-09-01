@@ -1,0 +1,7 @@
+[MAPLIST]
+3
+Resource/MapList/Stage1.txt Tutorial 1000 600
+Resource/MapList/Stage2.txt Tutorial2 1000 600
+Resource/MapList/Stage3.txt Tutorial3 1000 600
+[STAGESETTING]
+1 3 АЃАн 67 132

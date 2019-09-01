@@ -1,0 +1,19 @@
+[OBJECT]
+[HERO]
+X Y W H Speed Jump Power 
+[WALL]
+X Y W H 종류(Black White Real)
+[LEVER]
+X Y W H 움직일건가?(Yes No) 종류 ID
+[LEVERWALL]
+X Y W H LEFT RIGHT 경로(Top, Side) 종류 ID
+[THORN]
+X Y W H 종류
+[ZONE]
+X Y W H 종류
+[SWITCH]
+X Y W H 종류
+[CLUE]
+X Y W H 종류
+[MONSTER]
+X Y W H LEFT RIGHT 패턴(PatternMove, PatternStop) 종류
